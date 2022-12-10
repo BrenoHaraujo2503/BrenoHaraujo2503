@@ -4,7 +4,6 @@
     <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoHaraujo2503&layout=compact&langs_count=16&theme=midnight-purple"/>
     <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=BrenoHaraujo2503&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
-<br>
 <div align="center">
   <h1>Contacts</h1>
   <a href="https://www.instagram.com/brenoharaujo/">
@@ -22,6 +21,7 @@
   <a href="mailto:brenoharaujomorais@gmail.com">
     <img src="https://img.shields.io/badge/brenoharaujomorais@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <br>
 </div>
 
 <div align="center">
