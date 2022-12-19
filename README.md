@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @BrenoHaraujo2503
+## I’m @BrenoHaraujo2503
 
 <div>
     <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoHaraujo2503&layout=compact&langs_count=16&theme=midnight-purple"/>
