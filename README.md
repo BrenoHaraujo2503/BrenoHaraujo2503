@@ -4,7 +4,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoHaraujo2503&layout=compact&langs_count=16&theme=midnight-purple"/>
     <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=BrenoHaraujo2503&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
-<div>
     <div align="center">
       <h1>Contacts</h1>
       <a href="https://www.instagram.com/brenoharaujo/">
@@ -22,10 +21,10 @@
       <br>
     </div>
 
-    <div align="center">
-        <h1>Languages</h1>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<div align="center">
+  <h1>Languages</h1>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
@@ -66,4 +65,3 @@
         <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
         <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
     </div>
-</div>
