@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/breno-henrique-b65104196/">
     <img src="https://img.shields.io/badge/Breno Henrique-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitter.com/BrenoHaraujo1">
-    <img src="https://img.shields.io/badge/BrenoHaraujo1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
   <a href="https://discord.com/users/251042557574905856/">
     <img src="https://img.shields.io/badge/BrenoHaraujo%235887-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
