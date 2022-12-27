@@ -109,8 +109,14 @@
 </div>
 
 <div align="center">
-    <h1>IDEs/Editors</h1>
+  <h1>IDEs/Editors</h1>
+  <a href="https://www.jetbrains.com/pt-br/idea/">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  </a>
+  <a href="https://code.visualstudio.com">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  </a>
+  <a href="https://visualstudio.microsoft.com">
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+  </a>
 </div>
