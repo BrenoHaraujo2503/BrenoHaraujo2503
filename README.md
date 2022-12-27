@@ -5,7 +5,6 @@
   <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api?username=BrenoHaraujo2503&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 <div></div>
-
 <div align="center">
   <h1>Contacts</h1>
   <a href="https://www.instagram.com/brenoharaujo/">
@@ -41,7 +40,6 @@
      <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   </a>
 </div>
-https://dotnet.microsoft.com/pt-br/
 <div align="center">
   <h1>Frameworks & Library</h1>
   <a href="https://dotnet.microsoft.com/pt-br/">
@@ -86,14 +84,28 @@ https://dotnet.microsoft.com/pt-br/
 </div>
 
 <div align="center">
-    <h1>Database</h1>
+  <h1>Database</h1>
+  <a href="https://firebase.google.com">
     <img src="https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white">
+  </a>
+  <a href="https://mariadb.org">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  </a>
+  <a href="https://www.mongodb.com">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+  <a href="https://www.mysql.com">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+  <a href="https://www.postgresql.org">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a>
+  <a href="https://redis.io">
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+  </a>
+  <a href="https://www.sqlite.org/index.html">
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  </a>
 </div>
 
 <div align="center">
