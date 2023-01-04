@@ -1,7 +1,7 @@
 ## I’m @BrenoHaraujo2503
 
 <div>
-  <img height="150em" src="https://github-readme-stats-lemon-seven-68.vercel.app/?username=BrenoHaraujo2503&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats-lemon-seven-68.vercel.app/api/top-langs/?username=BrenoHaraujo2503&layout=compact&langs_count=16&theme=midnight-purple"/>
   <img height="150em" align="right" src="https://github-readme-stats-lemon-seven-68.vercel.app/api?username=BrenoHaraujo2503&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 <div></div>
